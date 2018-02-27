@@ -1,5 +1,5 @@
 # Summary
 
 * [Вводная](README.md)
-* [Настройка окржения](nastroika-okrzheniya.md)
+* [Настройка окружения](tasks/task1/README.md)
 

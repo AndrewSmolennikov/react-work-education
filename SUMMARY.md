@@ -1,5 +1,5 @@
 # Summary
 
-* [Вводная](README.md)
+* [Главная](README.md)
 * [Настройка окружения](tasks/task1/README.md)
 

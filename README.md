@@ -7,7 +7,7 @@
 * [React Redux](https://github.com/reactjs/react-redux)
 * [Redux-Observable](https://github.com/redux-observable/redux-observable)
 * [React-route](https://github.com/ReactTraining/react-router)
-* Jest
+* [Jest](https://facebook.github.io/jest/)
 
 ## Задания
 

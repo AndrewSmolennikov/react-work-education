@@ -1,0 +1,4 @@
+# Summary
+
+* [Памятка](README.md)
+

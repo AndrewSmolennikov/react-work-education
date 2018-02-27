@@ -1,4 +1,5 @@
 # Summary
 
-* [Памятка](README.md)
+* [Вводная](README.md)
+* [Настройка окржения](nastroika-okrzheniya.md)
 

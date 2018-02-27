@@ -8,12 +8,11 @@
 * [Redux-Observable](https://github.com/redux-observable/redux-observable)
 * [React-route](https://github.com/ReactTraining/react-router)
 
-## Оглавление
+## Задания
 
-* Настройка окружения
-* Разделение окружения по средам
-* Первое React приложение
-* ...
+1. [Настройка окружения](/nastroika-okrzheniya.md)
+2. Разделение окружения по средам
+3. Первое React приложение
 
 
 

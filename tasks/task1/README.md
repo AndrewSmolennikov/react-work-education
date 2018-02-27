@@ -19,8 +19,8 @@
     font-family: arial;
   }
   ```
-
 * Создать index.js/ts со следующим наполнением
+
 * ```js
   var theDiv = document.getElementById("root");
   var h1 = document.createElement("h1");
@@ -57,5 +57,5 @@
 
 ### Результат
 
-После запуска сборки webpack в директории build/dist/wwwroot должен появится index.html со ссылками на index.js и index.css
+После запуска сборки webpack в директории build/dist/wwwroot должен появится index.html c автоматически созданными ссылками на index.js и index.css
 

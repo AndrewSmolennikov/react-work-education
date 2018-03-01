@@ -10,14 +10,11 @@
 4. Настроить webpack-dev-server для dev
 5. Настроить создание всех source-map для dev
 
-Необходимо переписать наш код из предыдущего задания
+Необходимо переписать typescript код из предыдущего задания но уже с использованием React, но только за место 
 
-```js
-  var theDiv = document.getElementById("root");
-  var h1 = document.createElement("h1");
-  h1.innerText = 'Hello, World';
-  theDiv.appendChild(h1);
-```
+> Hello, world
+
+
 
 ### Стек
 
@@ -29,6 +26,8 @@
 ### Помощь и советы
 
 * За основу можно взять исходники из первого задания
+* Разделяйте dependencies и devDependencies
+* Не надо комитеть папки node\_modules и build/dist/wwwroot
 
 ### Результат
 

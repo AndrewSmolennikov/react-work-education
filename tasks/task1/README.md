@@ -2,11 +2,8 @@
 
 ### Задание
 
-* Подготовить директорию для проекта
-* Настроить package.json, поставить все зависимые пакеты через npm/yarn 
-* Создать директории для исходников и результирующего кода
-* Настроить конфигурацию webpack для сборки javascript/typescript кода в отедльный файд
-* Настроить конфигурацию webpack для сборки стилей в отедльный файд
+В данном уроке, необходимо подготовить рабочую директори и настроить package.json с помощью npm. После настройки первых шагов можно приступить к конфигурации webpack для сборки кода на typescript и css стилей, сборка должна происходить в отдельный файл. Для того чтобы проверить работу сборки в директории ./src создадим файлы, который будут собираться.
+
 * Создать index.css со следующим наполнением
 * ```css
   html, bode {
@@ -19,7 +16,7 @@
     font-family: arial;
   }
   ```
-* Создать index.js/ts со следующим наполнением
+* Создать index.ts со следующим наполнением
 
 * ```js
   var theDiv = document.getElementById("root");
@@ -50,9 +47,10 @@
 
 ### Помощь и советы
 
-* [документация по npm](https://docs.npmjs.com)
-* [документация по yarn](https://yarnpkg.com/en/docs)
-* [помощь в настройке package.json](https://docs.npmjs.com/cli/init)
+* [Документация по npm](https://docs.npmjs.com)
+* [Документация по yarn](https://yarnpkg.com/en/docs)
+* [Помощь в настройке package.json](https://docs.npmjs.com/cli/init)
+* Разделяйте dependencies и devDependencies
 * Не надо комитеть папки node\_modules и build/dist/wwwroot
 
 ### Результат

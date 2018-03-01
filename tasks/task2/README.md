@@ -32,5 +32,5 @@
 
 ### Результат
 
-после  \[name\].\[chunkhash\].\[ext\] и vendor
+~~после  \[name\].\[chunkhash\].\[ext\] и vendor~~
 

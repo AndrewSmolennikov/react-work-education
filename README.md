@@ -11,10 +11,9 @@
 
 ## Задания
 
-* [Главная](README.md)
-* [Настройка окружения](tasks/task1/README.md)
-* [Расширенная настройка окружения + погружение в React](tasks/task2/README.md)
-* [Первое React приложение](tasks/task3/README.md)
-
+1. [Настройка окружения](tasks/task1/README.md)
+2. [Расширенная настройка окружения + погружение в React](tasks/task2/README.md)
+3. [Первое React приложение](tasks/task3/README.md)
+4. 
 
 

@@ -16,7 +16,7 @@
     font-family: arial;
   }
   ```
-* Создать index.js/ts со следующим наполнением
+* Создать index.ts со следующим наполнением
 
 * ```js
   var theDiv = document.getElementById("root");

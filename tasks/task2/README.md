@@ -6,6 +6,7 @@
 
 * NodeJS
 * Typescript
+* TSX
 * webpack
 
 ### Помощь и советы

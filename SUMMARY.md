@@ -1,4 +1,4 @@
-# Summary
+# Оглавление
 
 * [Главная](README.md)
 * [Настройка окружения](tasks/task1/README.md)

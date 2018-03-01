@@ -13,7 +13,7 @@
 
 Необходимо переписать typescript код из предыдущего задания с использованием React, за место ~~**Hello, world**~~ необходимо вывести на экран **Is {lang} code**, где на основание переменной isDev должно подставится значение:
 
-| isDev | value |
+| isDev | {lang} |
 | :--- | :--- |
 | true | typescript |
 | false | javascript |

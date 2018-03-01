@@ -4,11 +4,9 @@
 
 ### Стек
 
-* Typescript
-
-* React
-
-* JSX/TSX
+* NodeJS
+* Javascript/Typescript
+* webpack
 
 ### Помощь и советы
 

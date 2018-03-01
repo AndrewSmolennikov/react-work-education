@@ -50,7 +50,7 @@
 
 ### Помощь и советы
 
-*  [документация по npm](https://docs.npmjs.com)
+* [документация по npm](https://docs.npmjs.com)
 * [документация по yarn](https://yarnpkg.com/en/docs)
 * [помощь в настройке package.json](https://docs.npmjs.com/cli/init)
 * Не надо комитеть папки node\_modules и build/dist/wwwroot

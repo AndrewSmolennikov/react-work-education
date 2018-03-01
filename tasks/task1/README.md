@@ -50,9 +50,9 @@
 
 ### Помощь и советы
 
-* [npm](https://docs.npmjs.com)
-* [yarn](https://yarnpkg.com/en/docs)
-* [инцилизация package.json](https://docs.npmjs.com/cli/init)
+*  [документация по npm](https://docs.npmjs.com)
+* [документация по yarn](https://yarnpkg.com/en/docs)
+* [помощь в настройке package.json](https://docs.npmjs.com/cli/init)
 * Не надо комитеть папки node\_modules и build/dist/wwwroot
 
 ### Результат

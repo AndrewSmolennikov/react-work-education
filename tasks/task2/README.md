@@ -33,5 +33,5 @@
 
 ### Результат
 
-~~после  \[name\].\[chunkhash\].\[ext\] и vendor~~
+После запуска сборки webpack для prod в директории build/dist/wwwroot должы появится файлы index.\[chunkhash\].js, vendor.\[chunkhash\].js, index.\[chunkhash\].css, Если запустить index.html то должна появится текст **IS JAVASCRIPT CODE**
 

@@ -57,5 +57,5 @@
 
 ### Результат
 
-После запуска сборки webpack в директории build/dist/wwwroot должен появится index.html c автоматически созданными ссылками на index.js и index.css
+После запуска сборки webpack в директории build/dist/wwwroot должен появится index.html c автоматически созданными ссылками на index.js и index.css. Если запустить index.html то должна появится текст HELLO, WORLD
 

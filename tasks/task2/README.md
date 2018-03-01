@@ -5,7 +5,7 @@
 ### Стек
 
 * NodeJS
-* Javascript/Typescript
+* Typescript
 * webpack
 
 ### Помощь и советы

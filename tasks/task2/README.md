@@ -34,5 +34,5 @@
 
 ### Результат
 
-После запуска сборки webpack для prod в директории build/dist/wwwroot должы появится файлы index.\[chunkhash\].js, vendor.\[chunkhash\].js, index.\[chunkhash\].css, Если запустить index.html то должен появится текст **IS JAVASCRIPT CODE. **Если запустить webpack в dev, то весь код будет скомпилирован в память, а в консоли появится ссылка [http://localhost:8080](http://localhost:8080),  перейдя по которой можно будет увидеть текст **IS TYPESCRIPT CODE**
+После запуска сборки webpack для prod в директории build/dist/wwwroot должы появится файлы index.\[chunkhash\].js, vendor.\[chunkhash\].js, index.\[chunkhash\].css, Если запустить index.html то должен появится текст **IS JAVASCRIPT CODE** Если запустить webpack в dev, то весь код будет скомпилирован в память, а в консоли появится ссылка [http://localhost:8080](http://localhost:8080),  перейдя по которой можно будет увидеть текст **IS TYPESCRIPT CODE**
 
